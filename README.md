@@ -41,13 +41,3 @@ This project was developed as part of my internship task at **Pinnacle Labs**.
    git clone https://github.com/Shrihari1705-NBG/calculator-project.git
 
 ---
-
-### ✅ Next Steps for You
-1. Save the above text into a file called `README.md` in the **root** of your repo.  
-2. Make sure your screenshot is inside `calculator-project/` folder and named `screenshot.png`.  
-3. Commit & push both:
-   ```bash
-   git add README.md calculator-project/screenshot.png
-   git commit -m "Added README with screenshot"
-   git pull origin main --rebase
-   git push origin main
