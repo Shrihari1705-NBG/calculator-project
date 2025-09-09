@@ -20,3 +20,22 @@ This project was developed as part of my internship task at **Pinnacle Labs**.
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🖼️ Screenshot
+![Calculator Screenshot](calculator-project/screenshot.png)
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3 (Flexbox, Animations)**
+- **JavaScript (DOM Manipulation)**
+
+---
+
+## 📌 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shrihari1705-NBG/calculator-project.git
