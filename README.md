@@ -14,15 +14,6 @@ This project was developed as part of my internship task at **Pinnacle Labs**.
 
 ---
 
-## 🚀 Live Demo
-🔗 [View Calculator on GitHub Pages](https://shrihari1705-nbg.github.io/calculator-project/)  
-
----
-
-## 📂 Project Structure
-
----
-
 ## 🖼️ Screenshot
 ![Calculator Screenshot](calculator-project/screenshot.png)
 
